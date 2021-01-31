@@ -366,7 +366,6 @@ body.ie .ibg img {
   }
   .header__burger::after {
     bottom: 0;
-    height: 1px;
   }
   .header__burger.active::before {
     -webkit-transform: rotate(45deg);
@@ -379,7 +378,6 @@ body.ie .ibg img {
         -ms-transform: rotate(-45deg);
             transform: rotate(-45deg);
     bottom: 9px;
-    height: 2px;
   }
   .header__burger.active span {
     -webkit-transform: scale(0);
