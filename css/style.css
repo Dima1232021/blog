@@ -1399,6 +1399,7 @@ body.ie .ibg img {
 }
 .blog__row {
   text-align: center;
+  margin: 70px 0px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
